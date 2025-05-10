@@ -1,4 +1,4 @@
-Title: Mechanotransducing Organic Electrochemical Diode for Simple-Structured Pixelated Ion-Electronic Skin 
+Title: Mechanotransducing Organic Electrochemical Diode for Ion-Electronic Skin
 
 Authors: Taeyeong Kim1, Seunggoo Baek1, Garrett Lecroy2, Hyeongseok Choi1, Wonjeong Suh3, Woosung Cho1, Alberto Salleo*2, Unyong Jeong*1
 
